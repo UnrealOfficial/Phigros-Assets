@@ -1,6 +1,8 @@
 # Phigros-Assets
 一些游戏内的曲绘和音频
 
+音频文件请前往[Release页面](https://github.com/UnrealOfficial/Phigros-Assets/releases)获取
+
 请操作文件列表来浏览需要的文件
 
 **不会下载？**
